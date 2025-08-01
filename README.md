@@ -9,7 +9,6 @@ This project is a **text mining and sentiment analysis** dashboard built in R. I
 - 🔠 Visualize word frequency and word clouds
 - 💬 Perform sentiment analysis using `sentimentr`
 - 🧠 Topic modeling using Latent Dirichlet Allocation (LDA)
-- 📈 Display output in a user-friendly interface (optional: Streamlit or RShiny)
 
 ---
 
@@ -65,19 +64,6 @@ Main R packages used:
 - Most frequent words include: `car`, `beetle`, `now`, `ebay`.
 - Topic modeling reveals clusters about **new vehicle models**, **user experiences**, and **product features**.
 
----
-
-## 🚀 Getting Started
-
-1. Set up Twitter API keys using `create_token()`
-2. Run the `R` script to fetch, clean, analyze, and visualize tweets
-3. (Optional) Serve as a web app using `streamlit` or `shiny`
-
----
-
-## 📸 Screenshots
-
-All screenshots are stored in the `screenshots/` folder.
 
 ---
 
